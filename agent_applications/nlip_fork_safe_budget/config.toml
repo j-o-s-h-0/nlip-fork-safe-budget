@@ -1,0 +1,15 @@
+[entities.coordinator]
+endpoint = "http://127.0.0.1:8010/nlip"
+port = 8010
+
+[entities.search]
+endpoint = "http://127.0.0.1:8011/nlip"
+port = 8011
+
+[entities.analysis]
+endpoint = "http://127.0.0.1:8012/nlip"
+port = 8012
+
+[entities.writer]
+endpoint = "http://127.0.0.1:8013/nlip"
+port = 8013
